@@ -1,46 +1,48 @@
 ---
 title: Ping Yang Chen
 role: PhD of Computer Science
+avatar_filename: null
 bio: My research interests include computer vision, deep learning and inteligent
   transportation system.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - low-power computer vision
+  - image processing
+  - pattern recognition
+  - and deep learning.
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: pingyang.cs08g@nctu.edu.tw
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com.tw/citations?user=cGHFHm0AAAAJ&hl=zh-TW
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/pingyang1117
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: National Yang Ming Chiao Tung University
+    url: https://www.nycu.edu.tw/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science
+      institution: National Yang Ming Chiao Tung University
+      year: 2023
+    - course: MEng in Computer Science
+      institution: National Taiwan Ocean University
+      year: 2019
+    - course: BSc in Computer Science
+      institution: National Taiwan Ocean University
+      year: 2017
 email: ""
 superuser: true
 highlight_name: true
 ---
-Ping-Yang Chen (Student Member, IEEE) is currently pursuing a Ph.D. degree with the Department of Computer Science, Institute of Computer Science and Engineering, National Yang Ming Chiao Tung University (NYCU). From 2019 to 2020, he worked as a Computer Vision Advisor in low-power embedded systems with Elan Microelectronics Corporation. He was a Reviewer for Neurocomputing in 2022. He was a Reviewer for IEEE International Conference on Image Processing (IEEE ICIP) in 2022. He was a Reviewer for Conference on Neural Information Processing Systems (NeurIPS) in 2022. His research interests include low-power computer vision, image processing, pattern recognition, and deep learning.
+Ping-Yang Chen (Student Member, IEEE) is currently pursuing a Ph.D. degree with the Department of Computer Science, Institute of Computer Science and Engineering, National Yang Ming Chiao Tung University (NYCU). From 2019 to 2020, he worked as a Computer Vision Advisor in low-power embedded systems with Elan Microelectronics Corporation. He was a Reviewer for Neurocomputing in 2022, IEEE International Conference on Image Processing (IEEE ICIP) 2022, and Conference on Neural Information Processing System (NeurIPS) 2022, repectively.
 
 {{< icon name="download" pack="fas" >}} Template {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
